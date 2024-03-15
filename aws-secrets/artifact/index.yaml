@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  aws-secrets:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-03-15T17:15:47.1548555+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 1aaa9b5773b1945c020ddd18dc8b0d474ac77eadc66073179190ff25b06a52b1
+    name: aws-secrets
+    type: application
+    urls:
+    - aws-secrets-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-03-15T17:15:47.1526442+05:30"
